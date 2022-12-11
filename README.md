@@ -32,7 +32,7 @@
   My Skills
 </h3>
 </div>
-
+https://media.giphy.com/media/zXzMKb3CQoBSVsuW0V/giphy.gif
 <div>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&theme=dark">
