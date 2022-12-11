@@ -49,6 +49,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true&theme=dark">
 </div>
 
+
+<!-- Project Section -->
 <div>
   <h3>
     <img width="30" src="https://media.giphy.com/media/Rhi5dPSO1kzhi5wqKa/giphy.gif" alt="my projects icon">
@@ -57,7 +59,7 @@
 </div>
 Let's Discover Togather Some Live Projects
 
-- [Basic Site (HTML & CSS)]((https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
+- [Basic Site (HTML & CSS)](https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
 - [Photography Template (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Two)
 - [Login Interface (HTML & CSS)](https://noamangg.github.io/login-interface-2)
 - [Tons Of Small Projects (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges-Frontend-Mentor)
