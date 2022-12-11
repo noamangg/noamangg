@@ -45,6 +45,7 @@
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"> 
   Github Stats
 </h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true&theme=dark">
 </div>
 
 <div>
@@ -52,10 +53,10 @@
     <img width="30" src="https://media.giphy.com/media/Rhi5dPSO1kzhi5wqKa/giphy.gif" alt="more info icon">
     More Info
   </h3>
+  
 </div>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true&theme=dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noamangg&theme=nord_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noamangg&theme=nord_dark" alt="Profile Status">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noamangg&theme=nord_dark&utcOffset=8" alt="Profile Status">
