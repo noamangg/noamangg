@@ -14,6 +14,7 @@
   About Me
 </h3>
   </div>
+  <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
 - I’m Currently Studying In ITE (Information Technology Engineering).
 - Looking Forward To Master Web Development.
 - I Enjoy Playing Calisthenics and Train So Hard.
@@ -33,7 +34,7 @@
 
 <div>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&theme=dark">
 </div>
 
 <br />
@@ -53,7 +54,7 @@
 </div>
 
 
-<img width="400" height="230" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
+
 
 
 
