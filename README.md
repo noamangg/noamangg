@@ -49,14 +49,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true&theme=dark">
 </div>
 
+<div>
+  <h3>
+    <img width="30" src="https://media.giphy.com/media/Rhi5dPSO1kzhi5wqKa/giphy.gif" alt="my projects icon">
+    My Projects 
+  </h3>
+</div>
+Let's Discover Togather Some Live Projects
+
+- [Basic Site (HTML & CSS)](https://www.google.com)
+
 <!-- More Info -->
 <div>
   <h3>
     <img width="30" src="https://media.giphy.com/media/Rhi5dPSO1kzhi5wqKa/giphy.gif" alt="more info icon">
     More Info
   </h3>
-  
 </div>
+
 
 <div align="left">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noamangg&theme=nord_dark">
