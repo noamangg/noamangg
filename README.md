@@ -32,8 +32,8 @@
 </div>
 
 <div>
-<img height="120" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
-<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&">
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&">
 </div>
 
 <br />
