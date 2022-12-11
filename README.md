@@ -9,6 +9,7 @@
 
 
 <h3>
+<img src="https://media.giphy.com/media/ABiB3kRDZ9HQXsmb7b/giphy.gif" width="50">
   About Me
 </h3>
 
@@ -24,7 +25,7 @@
 <br />
 
 <h3>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
   My Skills
 </h3>
 
@@ -34,8 +35,8 @@
 </div>
 <br />
 
-<h3 width="100%">
-  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"> 
+<h3 width="100">
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="50"> 
   Github Stats
 </h3>
 
