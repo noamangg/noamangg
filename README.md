@@ -15,6 +15,7 @@
 </h3>
   </div>
   <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
+  
 - I’m Currently Studying In ITE (Information Technology Engineering).
 - Looking Forward To Master Web Development.
 - I Enjoy Playing Calisthenics and Train So Hard.
@@ -44,6 +45,13 @@
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"> 
   Github Stats
 </h3>
+</div>
+
+<div>
+  <h3>
+    <img src="https://media.giphy.com/media/Rhi5dPSO1kzhi5wqKa/giphy.gif" alt="more info icon">
+    More Info
+  </h3>
 </div>
 
 <div align="left">
