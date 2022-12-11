@@ -1,5 +1,7 @@
 <h1 align="center">Hey There I'm Noaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">A Self Teach Front End Developer </h3>
+<h3 align="center">A Self Teach Front End Developer</h3>
+<h6>My profile describes my journey from the beginning, here you can find my projects and trainings sites, I love to document all this here, I started in
+October 2022 and now I have HTML and CSS while I am learning JavaScript, my journey is just started now</h6>
 <br />
 
 <!-- Gif -->
