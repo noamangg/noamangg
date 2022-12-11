@@ -15,10 +15,15 @@
 </h3>
   </div>
 - I’m Currently Studying In ITE (Information Technology Engineering).
+
 - Looking Forward To Master Web Development.
+
 - I Enjoy Playing Calisthenics and Train So Hard.
+
 - I Learn Programming, Each Single Day.
+
 - Seeking For Knowledge & Acquiring New Skills.
+
 - I'm Currently Learning Java Script.
 
 <br />
