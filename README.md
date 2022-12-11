@@ -15,15 +15,10 @@
 </h3>
   </div>
 - I’m Currently Studying In ITE (Information Technology Engineering).
-
 - Looking Forward To Master Web Development.
-
 - I Enjoy Playing Calisthenics and Train So Hard.
-
 - I Learn Programming, Each Single Day.
-
 - Seeking For Knowledge & Acquiring New Skills.
-
 - I'm Currently Learning Java Script.
 
 <br />
@@ -37,8 +32,8 @@
 </div>
 
 <div>
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&theme=dark">
 </div>
 
 <br />
@@ -51,10 +46,10 @@
 </div>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noamangg&theme=github">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noamangg&theme=github" alt="Profile Status">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noamangg&theme=github&utcOffset=8" alt="Profile Status">
+<img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noamangg&theme=nord_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noamangg&theme=nord_dark" alt="Profile Status">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noamangg&theme=nord_dark&utcOffset=8" alt="Profile Status">
 </div>
 
 
