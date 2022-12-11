@@ -40,6 +40,7 @@
 
 <br />
 
+<!-- Github State -->
 <div>
 <h3>
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"> 
@@ -48,6 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true&theme=dark">
 </div>
 
+<!-- More Info -->
 <div>
   <h3>
     <img width="30" src="https://media.giphy.com/media/Rhi5dPSO1kzhi5wqKa/giphy.gif" alt="more info icon">
