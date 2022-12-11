@@ -1,4 +1,4 @@
-<h1 align="center">Hey There I,m Noaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h1 align="center">Hey There I'm Noaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 <h3 align="center">A Self Teach Front End Developer </h3>
 <br />
 
@@ -57,7 +57,11 @@
 </div>
 Let's Discover Togather Some Live Projects
 
-- [Basic Site (HTML & CSS)](https://www.google.com)
+- [Basic Site (HTML & CSS)]((https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
+- [Photography Template (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Two)
+- [Login Interface (HTML & CSS)](https://noamangg.github.io/login-interface-2)
+- [Tons Of Small Projects (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges-Frontend-Mentor)
+- [Tons Of Basic Interfaces (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges)
 
 <!-- More Info -->
 <div>
