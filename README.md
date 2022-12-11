@@ -32,7 +32,7 @@
   My Skills
 </h3>
 </div>
-https://media.giphy.com/media/zXzMKb3CQoBSVsuW0V/giphy.gif
+
 <div>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&theme=dark">
@@ -53,7 +53,7 @@ https://media.giphy.com/media/zXzMKb3CQoBSVsuW0V/giphy.gif
 <!-- Project Section -->
 <div>
   <h3>
-    <img width="30" src="https://media.giphy.com/media/Rhi5dPSO1kzhi5wqKa/giphy.gif" alt="my projects icon">
+    <img width="30" src="https://media.giphy.com/media/zXzMKb3CQoBSVsuW0V/giphy.gif" alt="my projects icon">
     My Projects 
   </h3>
 </div>
@@ -79,6 +79,7 @@ Let's Discover Togather Some Live Projects
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noamangg&theme=nord_dark" alt="Profile Status">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noamangg&theme=nord_dark&utcOffset=8" alt="Profile Status">
 </div>
+
 
 
 
