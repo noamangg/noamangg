@@ -35,6 +35,7 @@
 
 <div>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+  <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&theme=dark">
 </div>
 
@@ -57,8 +58,8 @@
     My Projects 
   </h3>
 </div>
-Let's Discover Togather Some Live Projects
-
+<p>Let's Discover Togather Some Live Projects</p>
+<br />
 - [Basic Site (HTML & CSS)](https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
 - [Photography Template (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Two)
 - [Login Interface (HTML & CSS)](https://noamangg.github.io/login-interface-2)
@@ -80,7 +81,14 @@ Let's Discover Togather Some Live Projects
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noamangg&theme=nord_dark&utcOffset=8" alt="Profile Status">
 </div>
 
-
+<br />
+<!-- Contact Me -->
+<div>
+  <h3>
+    <img width="30" src="https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif" alt="contact us icon">
+    Feel Free To Contact
+  </h3>
+</div>
 
 
 
