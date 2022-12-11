@@ -28,12 +28,10 @@
   My Skills
 </h3>
 
-
+<div>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
-
-<br />
-<h3>
-</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&">
+</div>
 <br />
 
 <h3 width="100%">
@@ -42,13 +40,10 @@
 </h3>
 
 <div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noamangg&theme=github">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noamangg&theme=github" alt="Profile Status">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noamangg&theme=github&utcOffset=8" alt="Profile Status">
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&">
 </div>
 
 
