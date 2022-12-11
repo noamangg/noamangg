@@ -68,7 +68,7 @@ Let's Discover Togather Some Live Projects
 <!-- More Info -->
 <div>
   <h3>
-    <img width="30" src="https://media.giphy.com/media/Rhi5dPSO1kzhi5wqKa/giphy.gif" alt="more info icon">
+    <img width="30" src="https://media.giphy.com/media/MXuvFNv8nLYP8GdYUD/giphy.gif" alt="more info icon">
     More Info
   </h3>
 </div>
