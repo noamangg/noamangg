@@ -58,7 +58,7 @@
     My Projects 
   </h3>
 </div>
-<p>Let's Discover Togather Some Live Projects</p>
+<p>Let's Discover Together Some Live Projects</p>
 
 - [Basic Site (HTML & CSS)](https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
 - [Photography Template (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Two)
