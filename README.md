@@ -3,7 +3,7 @@
 <h6>My profile describes my journey from the beginning, here you can find my projects and trainings sites, I love to document all this here, I started in
 October 2022 and now I have HTML and CSS while I am learning JavaScript, my journey is just started now</h6>
 <br />
-
+I can edite this 
 <!-- Gif -->
 <div align="center" >
 <img style="border-radius: 10px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
