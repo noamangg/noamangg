@@ -64,6 +64,7 @@ October 2022 and now I have HTML and CSS while I am learning JavaScript, my jour
 
 - [Basic Site (HTML & CSS)](https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
 - [Photography Template (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Two)
+- [Company Site Template With All Sections (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Three)
 - [Login Interface (HTML & CSS)](https://noamangg.github.io/login-interface-2)
 - [Tons Of Small Projects (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges-Frontend-Mentor)
 - [Tons Of Basic Interfaces (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges)
