@@ -90,6 +90,7 @@ October 2022 and now I have HTML and CSS while I am learning JavaScript, my jour
   <h3>
     <img width="30" src="https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif" alt="contact us icon">
     Feel Free To Contact:
+    Telegram Instagram Facebook
   </h3>
 </div>
 
