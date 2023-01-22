@@ -8,7 +8,7 @@ October 2022 and now I have HTML and CSS while I am learning JavaScript, my jour
 <div align="center" >
 <img style="border-radius: 10px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
-
+.
 <!-- About Me Section -->
 <div>
 <h3>
@@ -68,7 +68,7 @@ October 2022 and now I have HTML and CSS while I am learning JavaScript, my jour
 - [Login Interface (HTML & CSS)](https://noamangg.github.io/login-interface-2)
 - [Tons Of Small Projects (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges-Frontend-Mentor)
 - [Tons Of Basic Interfaces (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges)
-
+------------
 <!-- More Info -->
 <div>
   <h3>
