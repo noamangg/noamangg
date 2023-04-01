@@ -5,7 +5,7 @@ last of October 2022 and now <br>I have HTML and CSS while I am learning JavaScr
 
 </h4>
 <br/>
-......
+...........
 <!-- Gif -->
 <div align="center" >
 <img style="border-radius: 10px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
