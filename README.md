@@ -2,7 +2,7 @@
 <h3 align="center">Self Teach Front End Developer & A Software Enginner</h3>
 <h4 stlye="font-weight: normal">I am glad to see you here, my profile describes my journey from the beginning, <br>here you can find my projects and trainings sites, <p>I love to document all this here, I started in
 last of October 2022 and now <br>I have HTML and CSS while I am learning JavaScript, <p>my journey is just started now, I faced some problems in my learning journey I had to stop multi times in diffrent steps, but whatever it will take I will keep going even if I have to write one single code line in the day because this is my passion and I will keep going whatever it takes.
-
+.
 </h4>
 <br/>
 ...........
