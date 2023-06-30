@@ -67,19 +67,19 @@
 Level 1: HTML & CSS Projects
 </h5>
 <div>
-- [Basic Site (HTML & CSS)](https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
-- [Photography Template (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Two)
-- [Company Site Template With All Sections (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Three)
-- [Full Courses Site With All Pages (HTML & CSS)](https://noamangg.github.io/HTML_And_CSS_Template_Four/index.html)
-- [Login Interface (HTML & CSS)](https://noamangg.github.io/login-interface-2)
-- [Tons Of Small Projects (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges-Frontend-Mentor)
-- [Tons Of Basic Interfaces (HTML & CSS)](https://noamangg.github.io/Front-End-Challenges)
+- [Basic Site](https://noamangg.github.io/CSS-And-HTML-Template-1-Alone)
+- [Photography Template)](https://noamangg.github.io/HTML_And_CSS_Template_Two)
+- [Company Site Template With All Sections](https://noamangg.github.io/HTML_And_CSS_Template_Three)
+- [Full Courses Site With All Pages](https://noamangg.github.io/HTML_And_CSS_Template_Four/index.html)
+- [Login Interface](https://noamangg.github.io/login-interface-2)
+- [Tons Of Small Projects](https://noamangg.github.io/Front-End-Challenges-Frontend-Mentor)
+- [Tons Of Basic Interfaces](https://noamangg.github.io/Front-End-Challenges)
  </div>
 <h5>
 Level 2: JS Projects
 </h5>
-- [Basic Site With Control Panel (Java Script)](https://noamangg.github.io/Landing_Page/)
-- [Real Quiz App (Java Script)](https://noamangg.github.io/Front-End-Tutorials/Quiz%20App/index.html)
+- [Basic Site With Control Panel](https://noamangg.github.io/Landing_Page/)
+- [Real Quiz App](https://noamangg.github.io/Front-End-Tutorials/Quiz%20App/index.html)
 <h5>
 Level 3: Tailwind Projects
 </h5>
